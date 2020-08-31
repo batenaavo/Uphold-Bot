@@ -1,3 +1,18 @@
-<h1 align="center">Uphold SDK for JavaScript</h1>
+<h1 align="center">Uphold Bot</h1>
 
-This SDK is built on top of the [Uphold API](https://uphold.com/en/developer/api) and it's designed to help developers integrate Uphold services into their applications, by making it easier for them to interact with the API in a clean and controlled manner.
+ A Node Js bot that uses the Uphold API to simulate moving money between BTC and USD, storing and accessing transaction data in a Postgresql database.
+
+ ## Setup
+
+ npm must be installed in order to be able to run the program. 
+
+ To run it simply download and unzip this repository, move to its directory and type in the terminal: 
+
+ ```sh
+ $ npm start
+ ```
+
+ To stop the bot at any time simply type the interruption command `Ctrl+C`.
+
+ 
+
