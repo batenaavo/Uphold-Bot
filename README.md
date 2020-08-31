@@ -15,7 +15,7 @@ const client = new Client({
     database: 'dbname',
     password: 'dbpwd',
     port: 5432,
-})
+});
 ```
 
 Save the file and the bot is ready to run, by simply typing in the terminal: 

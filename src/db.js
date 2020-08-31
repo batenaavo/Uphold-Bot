@@ -9,9 +9,9 @@ const client = new Client({
     database: 'dbname',
     password: 'dbpwd',
     port: 5432,
-})
+});
 
-client.connect()
+client.connect();
 
 //creates a transaction table in the database
 //table contains transaction ID, timestamp of the transaction, currency to be moved, amount, origin card ID and destination card ID
