@@ -22,7 +22,7 @@ Save the file and the bot is ready to run.
 
 To run the bot head to the project directory and type in the terminal the command `$ npm start`.
 
-To stop the bot at any time simply type the interruption command `Ctrl+C`.
+To stop the bot at any time type the interruption command `Ctrl+C`.
 
 
 
