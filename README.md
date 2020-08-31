@@ -14,17 +14,15 @@ const client = new Client({
     host: 'localhost',
     database: 'dbname',
     password: 'dbpwd',
-    port: 5432,
+    port: 5432
 });
 ```
 
-Save the file and the bot is ready to run, by simply typing in the terminal: 
+Save the file and the bot is ready to run.
 
- ```sh
- $ npm start
- ```
+To run the bot head to the project directory and type in the terminal the command `$ npm start`.
 
- To stop the bot at any time simply type the interruption command `Ctrl+C`.
+To stop the bot at any time simply type the interruption command `Ctrl+C`.
 
 
 

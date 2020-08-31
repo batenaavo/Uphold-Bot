@@ -8,7 +8,7 @@ const client = new Client({
     host: 'localhost',
     database: 'dbname',
     password: 'dbpwd',
-    port: 5432,
+    port: 5432
 });
 
 client.connect();
